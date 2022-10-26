@@ -9,7 +9,7 @@ Bank Project Ruby
 Features
 -------------
 * User can sign up or log in if its an existing user. 
-* User can type their last name and last 4 digits of their social security access their account.
+* User can type their last name,last 4 digits of their social security number, and password to access their account.
 * User can be primary account holder or secondary account holder. 
 * User can add family member to their account.
 * User can withdrawal money from account.
