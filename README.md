@@ -16,5 +16,5 @@ Features
 * User can deposit money to the account.
 * User can view their balance.
 * User can transfer money to other relatives.
-* Primary user can ONLY see relatives bank account balance, but relatives cannot see primary user's account balance.
+* Primary user can see relatives bank account balance, but relatives cannot see primary user's account balance.
 * Primary user can delete relatives from the account.
