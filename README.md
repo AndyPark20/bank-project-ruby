@@ -10,9 +10,11 @@ Features
 -------------
 * User can sign up or log in if its an existing user. 
 * User can type their last name and last 4 digits of their social security access their account.
+* User can be primary account holder or secondary account holder. 
+* User can add family member to their account.
 * User can withdrawal money from account.
-* User can add money to the account.
+* User can deposit money to the account.
 * User can view their balance.
 * User can transfer money to other relatives.
-* Primary user can ONLY see who has the most and least money.
+* Primary user can ONLY see relatives bank account balance, but relatives cannot see primary user's account balance.
 * Primary user can delete relatives from the account.
